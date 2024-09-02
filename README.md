@@ -1,3 +1,4 @@
-# Cartesi Application Templates
+# Python DApp Template
 
-Template projects for Cartesi applications. This repository is used by the Cartesi CLI to create new applications from a specified template project.
+This is a template for Python Cartesi DApps. It uses python3 to execute the backend application.
+The application entrypoint is the `dapp.py` file.
